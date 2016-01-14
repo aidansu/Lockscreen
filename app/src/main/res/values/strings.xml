@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">一键锁屏</string>
+    <string name="action_settings">Settings</string>
+    <string name="info">第一次运行的时候请赋予管理权限以便让软件可以正常工作 \n \n Copyright ©2016 aidansu.com</string>
+</resources>
